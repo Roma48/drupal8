@@ -19,6 +19,8 @@ global-styling:
     js/jquery.viewportchecker.js: {}
     js/jarallax.js: {}
     js/script.js: {}
+  dependencies:
+    - core/jquery
 
 
 
