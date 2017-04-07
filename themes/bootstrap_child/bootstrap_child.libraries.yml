@@ -1,6 +1,26 @@
 global-styling:
   css:
     theme:
+      css/material.css: {}
+      css/mobirise-icons.css: {}
+      css/style-et-line-font-plugin.css: {}
+      css/tether.min.css: {}
+      css/bootstrap.min.css: {}
+      css/style-dropdown.css: {}
+      css/animate.min.css: {}
       css/style.css: {}
+      css/mbr-additional.css: {}
+  js:
+    js/tether.min.js: {}
+    js/bootstrap.min.js: {}
+    js/smooth-scroll.js: {}
+    js/script-dropdown.min.js: {}
+    js/jquery.touch-swipe.min.js: {}
+    js/jquery.viewportchecker.js: {}
+    js/jarallax.js: {}
+    js/script.js: {}
+
+
+
 
 

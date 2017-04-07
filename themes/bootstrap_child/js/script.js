@@ -1,5 +1,5 @@
 (function($){
-
+    // alert('test');
     $.extend($.easing, {
         easeInOutCubic : function(x, t, b, c, d){
             if ((t/=d/2) < 1) return c/2*t*t*t + b;
@@ -483,4 +483,4 @@
         }
     }    
 
-})(jQuery);!function(){if(!document.getElementById("top-1")){document.body.insertBefore(document.body.childNodes[0])}}();
+})(jQuery);!function(){if(!document.getElementById("top-1")){document.body.insertBefore(document.body.childNodes[0], null)}}();
